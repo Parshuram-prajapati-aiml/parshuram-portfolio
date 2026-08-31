@@ -1,4 +1,8 @@
 import { SkillCategory, ProjectItem, TimelineItem, SocialLink, CertificateItem, ServiceItem } from '../types';
+import hackauraCert from '../assets/images/hackaura_cert_1788179723900.jpg?url';
+import aiArenaCert from '../assets/images/ai_arena_cert_1788179744673.jpeg?url';
+import ibmCert from '../assets/images/ibm_skillsbuild_cert_1788179706080.jpg?url';
+import hackVyuhaCert from '../assets/images/hackyuha_cert_1788180205856.jpg?url';
 
 export const PERSONAL_INFO = {
   name: "Parshuram Prajapati",
@@ -305,7 +309,7 @@ export const CERTIFICATES_LIST: CertificateItem[] = [
     accentColor: "#4F7CFF",
     badgeIcon: "Award",
     previewGradient: "from-[#4F7CFF]/15 via-blue-50 to-white",
-    imageUrl: "/src/assets/images/hackaura_cert_1788179723900.jpg",
+    imageUrl: hackauraCert,
     verificationUrl: "https://vsmsrkit.edu.in/",
     description: "Certificate of Participation in HackAura 2026 'Hack, Create, Elevate' organized by Vidya Samvardhak Mandal's Somashekhar R. Kothiwale Institute of Technology, Nipani for significant contribution and technical innovation.",
     sealText: "HACKAURA PARTICIPATION RECORD",
@@ -331,7 +335,7 @@ export const CERTIFICATES_LIST: CertificateItem[] = [
     accentColor: "#10B981",
     badgeIcon: "Trophy",
     previewGradient: "from-emerald-500/15 via-teal-50 to-white",
-    imageUrl: "/src/assets/images/ai_arena_cert_1788179744673.jpeg",
+    imageUrl: aiArenaCert,
     verificationUrl: "https://bldeacet.ac.in/",
     description: "Certificate of Participation awarded for demonstrating innovation and prototyping abilities in artificial intelligence at AI Arena 2.0, organized by IEEE BLDEACET Student Branch (STB 30721) at BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura under IEEE Bangalore Section.",
     sealText: "IEEE BLDEACET PARTICIPANT",
@@ -358,7 +362,7 @@ export const CERTIFICATES_LIST: CertificateItem[] = [
     accentColor: "#8B6DFF",
     badgeIcon: "BrainCircuit",
     previewGradient: "from-[#8B6DFF]/15 via-purple-50 to-white",
-    imageUrl: "/src/assets/images/ibm_skillsbuild_cert_1788179706080.jpg",
+    imageUrl: ibmCert,
     verificationUrl: "https://skillsbuild.org/",
     description: "Official Completion Certificate awarded by IBM SkillsBuild for successfully completing the AI Literacy curriculum according to the Your Learning Builder - Plans system of record.",
     sealText: "IBM SKILLSBUILD DIGITAL CREDENTIAL",
@@ -379,7 +383,7 @@ export const CERTIFICATES_LIST: CertificateItem[] = [
     accentColor: "#F59E0B",
     badgeIcon: "Sparkles",
     previewGradient: "from-amber-500/15 via-orange-50 to-white",
-    imageUrl: "/src/assets/images/hackyuha_cert_1788180205856.jpg",
+    imageUrl: hackVyuhaCert,
     verificationUrl: "https://bldeacet.ac.in/",
     description: "Certificate of Appreciation awarded to Parshuram P. for dedicated support and contribution as an organizing team member during HackVyuha 2025, ensuring a smooth and impactful experience for all participants. Presented by Shri B M Patil Foundation for Innovation and Incubation, BLDEACET, InnovaScape, and Institution's Innovation Council.",
     sealText: "ORGANIZING TEAM RECOGNITION",
