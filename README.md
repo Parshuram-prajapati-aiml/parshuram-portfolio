@@ -8,7 +8,7 @@ This portfolio showcases my skills, AI/ML projects, full-stack development proje
 
 ## 🌐 Live Projects
 
-- 🚀 **Personal Portfolio:** parshuram-portfolio-nine.vercel.app
+- 🚀 **Personal Portfolio:** https://parshuram-portfolio-nine.vercel.app
 - 🏫 **Fatimah International School:** https://fatimahinternationalschool.com
 - 🤖 **Snap Class AI:** https://snap-class.streamlit.app
 
