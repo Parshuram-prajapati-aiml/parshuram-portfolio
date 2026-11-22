@@ -173,7 +173,7 @@ export const PROJECTS_LIST: ProjectItem[] = [
     bgTint: "#F5F5FA",
     accentColor: "#8B6DFF",
     githubUrl: "https://github.com/parshuram-prajapati",
-    demoUrl: "https://snap-class.streamlit.app",
+    demoUrl: "https://snapclass-aii.streamlit.app/",
     metrics: "Dual Biometric Security",
     featured: true,
     imageUrl: "/projects/snap-class.jpg",
